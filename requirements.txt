@@ -1,0 +1,4 @@
+python-dotenv
+oracledb
+pandas
+pydantic

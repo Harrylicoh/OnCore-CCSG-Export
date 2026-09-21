@@ -1,0 +1,11 @@
+# Virtual Environment Python
+.env
+.venv
+
+# Folders contain Export Data
+*/
+
+# Export Data
+*.zip
+*.xlsx
+*.csv
